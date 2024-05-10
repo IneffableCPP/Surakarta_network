@@ -1,0 +1,15 @@
+release/GameModel.o
+release/main.o
+release/main2.o
+release/mainwindow.o
+release/networkdata.o
+release/networkserver.o
+release/networksocket.o
+release/piece.o
+release/surakarta_agent_mine.o
+release/surakarta_game.o
+release/surakarta_reason.o
+release/surakarta_rule_manager.o
+release/moc_mainwindow.o
+release/moc_networkserver.o
+release/moc_networksocket.o
